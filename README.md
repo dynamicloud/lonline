@@ -27,18 +27,21 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 
 #Ruby Language
 0.0.2 
+
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_ruby.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_ruby)
 
 If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
 
 #Java Language
 0.0.1 
+
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_java.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_java)
 
 If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
 
 #NodeJs
 0.0.2 
+
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_nodejs.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_nodejs)
 
 If you're a NodeJs developer visit our lonline NodeJs version [Lonline NodeJs version documentation](https://github.com/dynamicloud/lonline_for_nodejs "Lonline NodeJs version documentation") 
