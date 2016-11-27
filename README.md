@@ -1,4 +1,4 @@
-<div style="background-color: #ccc">
+<div style="background: #ccc">
   <img src='http://lonline.dynamicloud.org/assets/img/lonline-logo.png' alt="Lonline logo">
 </div>
 
