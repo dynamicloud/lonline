@@ -1,4 +1,4 @@
-<div style="background-color:rgb(251, 251, 251)">
+<div style="background-color:rgb(251, 251, 251); width: 100%; height: 40px">
   <img src='http://lonline.dynamicloud.org/assets/img/lonline-logo.png' alt="Lonline logo">
 </div>
 
