@@ -28,7 +28,7 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 | `trace` | All levels | Traces the code execution between methods, lines, etc.|
 | `off` | None | The highest possible rank and is intended to turn off logging.|
 
-#Ruby Language
+#Ruby Language 
 0.0.2 
 
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_ruby.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_ruby)
