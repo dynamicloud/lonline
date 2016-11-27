@@ -1,5 +1,6 @@
-`![alt text](http://lonline.dynamicloud.org/assets/img/lonline-logo.png "Lonline logo")`
-
+<div style='background-color: #ccc'>
+  ![alt text](http://lonline.dynamicloud.org/assets/img/lonline-logo.png "Lonline logo")
+</div>
 Lonline allows to log your program into the cloud and is powered by Dynamicloud service.  Lonline allows you to log your program's execution into the cloud to avoid server access and disk space usage
 
 Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline is a library to log your program through a storing service called Dynamicloud.  With Dynamicloud we can store data dynamically and very easy, Lonline allows you to set more features and this way log more than only text, level and program trace.
