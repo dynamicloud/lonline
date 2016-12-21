@@ -16,7 +16,7 @@ Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline 
 
 This manager allows you to check your logs from anywhere, likewise you will be able to configure alerts, execute searchs, import and create containers, etc.
 
-**Access here:** [Lonline manager](https://lonline.io/)
+**Access here:** <a href="https://lonline.io/" target="_blank">Lonline manager</a>
 
 #Dynamicloud
 Dynamicloud is a service to store data into the cloud, it allows you to create structures dynamically without intervention from IT teams.  This service allows lonline to store log information very easy and fast.  Additionally, lonline gets the power of Dynamicloud to execute queries and provide reports for your analysis about created logs in a specific time, date, year, etc.
