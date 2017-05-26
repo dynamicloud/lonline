@@ -12,16 +12,16 @@ Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline 
 4. [Java language](#java-language)
 5. [NodeJs](#nodejs)
 
-#Lonline manager (Beta)
+# Lonline manager
 
 This manager allows you to check your logs from anywhere, likewise you will be able to configure alerts, execute searchs, import and create containers, <a href="https://lonline.io/wizard" target="_blank">Configuration Wizard</a>, etc.
 
 **Access here:** <a href="https://lonline.io/" target="_blank">Lonline manager</a>
 
-#Dynamicloud
+# Dynamicloud
 Dynamicloud is a service to store data into the cloud, it allows you to create structures dynamically without intervention from IT teams.  This service allows lonline to store log information very easy and fast.  Additionally, lonline gets the power of Dynamicloud to execute queries and provide reports for your analysis about created logs in a specific time, date, year, etc.
 
-#Levels
+# Levels
 Lonline provides 6 levels of logging, check out the below table to understand how these levels are activated according the level of logging in your program:
 
 | Level | Activated levels | Description (From the great Log4j library) |
@@ -34,21 +34,21 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 | `trace` | All levels | Traces the code execution between methods, lines, etc.|
 | `off` | None | The highest possible rank and is intended to turn off logging.|
 
-#Ruby Language 
+# Ruby Language 
 0.0.2 
 
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_ruby.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_ruby)
 
 If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
 
-#Java Language
+# Java Language
 0.0.1 
 
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_java.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_java)
 
 If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
 
-#NodeJs
+# NodeJs
 0.0.2 
 
 [![Build Status](https://travis-ci.org/dynamicloud/lonline_for_nodejs.svg?branch=master)](https://travis-ci.org/dynamicloud/lonline_for_nodejs)
