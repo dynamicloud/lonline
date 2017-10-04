@@ -1,5 +1,3 @@
-![Lonline Logo](https://lonline.io/assets/img/lonline-logo.png?rand=2 "Lonline logo")
-
 <hr>
 
 Lonline allows to log your program into the cloud and is powered by Dynamicloud service.  Lonline allows you to log your program's execution into the cloud to avoid server access and disk space usage
